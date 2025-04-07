@@ -30,7 +30,7 @@ class PDFInvoiceOCRParser:
             gemini_api_key: Google Gemini API key. If None, will try to read from environment variable.
         """
         # Get API key from parameter or environment variable
-        self.api_key = gemini_api_key or "AIzaSyA9I36rGn5QFV-GP8YyUvmBAzQaOsyELi4"
+        self.api_key = gemini_api_key or os.environ.get("GEMINI_API_KEY")
         if not self.api_key:
             raise ValueError("Gemini API key is required. Set GEMINI_API_KEY environment variable or pass it to the constructor.")
         
