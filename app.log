@@ -1,0 +1,54 @@
+2025-06-05 14:50:38,449 - __main__ - INFO - PDFInvoiceOCRParser initialized successfully
+2025-06-05 14:50:38,452 - __main__ - INFO - Processing invoice: C:\Users\haris\AppData\Local\Temp\tmpg4gdrkw1.pdf
+2025-06-05 14:50:38,452 - __main__ - INFO - Converting PDF to images: C:\Users\haris\AppData\Local\Temp\tmpg4gdrkw1.pdf
+2025-06-05 14:50:38,640 - __main__ - INFO - PDF conversion complete. Generated 1 images.
+2025-06-05 14:50:38,644 - __main__ - INFO - Processing page 1 of 1
+2025-06-05 14:50:38,645 - __main__ - INFO - Extracting invoice data from image
+2025-06-05 14:50:45,080 - __main__ - ERROR - Failed to parse JSON from Gemini response: Expecting property name enclosed in double quotes: line 27 column 26 (char 874)
+2025-06-05 14:50:45,080 - __main__ - INFO - Invoice processing complete. Extracted data from 1 pages.
+2025-06-05 14:50:45,086 - __main__ - INFO - Saved invoice data to output\tmpg4gdrkw1_invoice_data.json
+2025-06-05 14:50:57,800 - __main__ - INFO - PDFInvoiceOCRParser initialized successfully
+2025-06-05 14:50:57,803 - __main__ - INFO - Processing invoice: C:\Users\haris\AppData\Local\Temp\tmp8mwq78fq.pdf
+2025-06-05 14:50:57,803 - __main__ - INFO - Converting PDF to images: C:\Users\haris\AppData\Local\Temp\tmp8mwq78fq.pdf
+2025-06-05 14:50:58,114 - __main__ - INFO - PDF conversion complete. Generated 1 images.
+2025-06-05 14:50:58,117 - __main__ - INFO - Processing page 1 of 1
+2025-06-05 14:50:58,117 - __main__ - INFO - Extracting invoice data from image
+2025-06-05 14:51:11,040 - __main__ - INFO - Successfully extracted and parsed invoice data
+2025-06-05 14:51:11,041 - __main__ - INFO - Invoice processing complete. Extracted data from 1 pages.
+2025-06-05 14:51:11,044 - __main__ - INFO - Saved invoice data to output\tmp8mwq78fq_invoice_data.json
+2025-06-05 14:51:33,093 - __main__ - INFO - PDFInvoiceOCRParser initialized successfully
+2025-06-05 14:51:33,096 - __main__ - INFO - Processing invoice: C:\Users\haris\AppData\Local\Temp\tmpldagfzxz.pdf
+2025-06-05 14:51:33,097 - __main__ - INFO - Converting PDF to images: C:\Users\haris\AppData\Local\Temp\tmpldagfzxz.pdf
+2025-06-05 14:51:33,228 - __main__ - INFO - PDF conversion complete. Generated 1 images.
+2025-06-05 14:51:33,231 - __main__ - INFO - Processing page 1 of 1
+2025-06-05 14:51:33,233 - __main__ - INFO - Extracting invoice data from image
+2025-06-05 14:51:46,014 - __main__ - INFO - Successfully extracted and parsed invoice data
+2025-06-05 14:51:46,015 - __main__ - INFO - Invoice processing complete. Extracted data from 1 pages.
+2025-06-05 14:51:46,025 - __main__ - INFO - Saved invoice data to output\tmpldagfzxz_invoice_data.json
+2025-06-05 14:52:04,123 - __main__ - INFO - PDFInvoiceOCRParser initialized successfully
+2025-06-05 14:52:04,125 - __main__ - INFO - Processing invoice: C:\Users\haris\AppData\Local\Temp\tmphoyaew4v.pdf
+2025-06-05 14:52:04,125 - __main__ - INFO - Converting PDF to images: C:\Users\haris\AppData\Local\Temp\tmphoyaew4v.pdf
+2025-06-05 14:52:04,412 - __main__ - INFO - PDF conversion complete. Generated 1 images.
+2025-06-05 14:52:04,414 - __main__ - INFO - Processing page 1 of 1
+2025-06-05 14:52:04,415 - __main__ - INFO - Extracting invoice data from image
+2025-06-05 14:52:17,487 - __main__ - INFO - Successfully extracted and parsed invoice data
+2025-06-05 14:52:17,487 - __main__ - INFO - Invoice processing complete. Extracted data from 1 pages.
+2025-06-05 14:52:17,493 - __main__ - INFO - Saved invoice data to output\tmphoyaew4v_invoice_data.json
+2025-06-05 14:56:52,346 - __main__ - INFO - PDFInvoiceOCRParser initialized successfully
+2025-06-05 14:56:52,350 - __main__ - INFO - Processing invoice: C:\Users\haris\AppData\Local\Temp\tmpn59ybgct.pdf
+2025-06-05 14:56:52,350 - __main__ - INFO - Converting PDF to images: C:\Users\haris\AppData\Local\Temp\tmpn59ybgct.pdf
+2025-06-05 14:56:52,599 - __main__ - INFO - PDF conversion complete. Generated 1 images.
+2025-06-05 14:56:52,607 - __main__ - INFO - Processing page 1 of 1
+2025-06-05 14:56:52,607 - __main__ - INFO - Extracting invoice data from image
+2025-06-05 14:56:59,298 - __main__ - INFO - Successfully extracted and parsed invoice data
+2025-06-05 14:56:59,298 - __main__ - INFO - Invoice processing complete. Extracted data from 1 pages.
+2025-06-05 14:56:59,301 - __main__ - INFO - Invoice processing complete. Results not saved to file as per request.
+2025-06-05 14:57:04,029 - __main__ - INFO - PDFInvoiceOCRParser initialized successfully
+2025-06-05 14:57:04,033 - __main__ - INFO - Processing invoice: C:\Users\haris\AppData\Local\Temp\tmph5oi6kx9.pdf
+2025-06-05 14:57:04,034 - __main__ - INFO - Converting PDF to images: C:\Users\haris\AppData\Local\Temp\tmph5oi6kx9.pdf
+2025-06-05 14:57:04,198 - __main__ - INFO - PDF conversion complete. Generated 1 images.
+2025-06-05 14:57:04,202 - __main__ - INFO - Processing page 1 of 1
+2025-06-05 14:57:04,203 - __main__ - INFO - Extracting invoice data from image
+2025-06-05 14:57:10,937 - __main__ - INFO - Successfully extracted and parsed invoice data
+2025-06-05 14:57:10,938 - __main__ - INFO - Invoice processing complete. Extracted data from 1 pages.
+2025-06-05 14:57:10,944 - __main__ - INFO - Invoice processing complete. Results not saved to file as per request.

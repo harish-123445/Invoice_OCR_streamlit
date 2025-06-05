@@ -1,0 +1,20 @@
+app:
+  title: "PDF Invoice OCR Parser"
+  icon: "📄"
+  description: |
+    Upload a PDF invoice to extract structured data using OCR powered by Google's Gemini API.
+    The system will analyze the invoice and extract key information like invoice numbers, dates, line items, and totals.
+  about: |
+    This application uses OCR and AI to extract structured data from invoice PDFs. Powered by Google's Gemini API and Streamlit.
+
+gemini:
+  model: "gemini-2.0-flash"
+
+processing:
+  default_dpi: 300
+  dpi_min: 150
+  dpi_max: 600
+  dpi_step: 50
+
+output:
+  directory: "output"
